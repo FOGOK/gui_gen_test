@@ -13,6 +13,7 @@ Thumbs.db
 *.cache
 *.ilk
 *.log
+*.meta
 [Bb]in
 [Dd]ebug*/
 *.sbr
@@ -69,3 +70,9 @@ Assembly-CSharp-Editor.csproj
 /DonutEditor/ProjectSettings
 
 /RoomContainer/MessagePackGenerated.cs
+/Assets/Scripts/*.meta
+/Assets/Scripts/UnitySerializing/*.meta
+/Assets/Scenes/*.meta
+/Assets/Editor/*.meta
+/Assets/Plugins
+/Assets/*.meta
